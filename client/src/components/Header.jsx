@@ -24,7 +24,7 @@ function Header() {
     <StyledHeader position="static">
       <Toolbar>
         <MenuIcon />
-        <Image src={url} alt="inshorts-logo" />
+        <Image src={url} alt="inshorts-loo" />
       </Toolbar>
     </StyledHeader>
   );
