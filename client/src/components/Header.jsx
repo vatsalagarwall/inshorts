@@ -13,7 +13,7 @@ function Header() {
   `;
 
   const Image = styled("img")({
-    height: 55,
+    height: 65,
     margin: "auto",
     paddingRight: 70,
   });
@@ -24,7 +24,7 @@ function Header() {
     <StyledHeader position="static">
       <Toolbar>
         <MenuIcon />
-        <Image src={url} alt="inshorts-loo" />
+        <Image src={url} alt="inshorts-logo" />
       </Toolbar>
     </StyledHeader>
   );
