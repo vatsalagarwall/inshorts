@@ -13,7 +13,7 @@ function Header() {
   `;
 
   const Image = styled("img")({
-    height: 65,
+    height: 55,
     margin: "auto",
     paddingRight: 70,
   });
