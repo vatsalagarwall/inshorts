@@ -14,7 +14,7 @@ function Header() {
 
   const Image = styled("img")({
     height: 55,
-    margin: "none",
+    margin: "auto",
     paddingRight: 70,
   });
 
