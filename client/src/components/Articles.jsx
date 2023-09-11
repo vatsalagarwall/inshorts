@@ -13,7 +13,7 @@ function Articles() {
 
   const dailyNews = async () => {
     let response = await getNews();
-    console.log(response.data);
+    // console.log(response.data);
     setNews(response.data);
   };
   return (
