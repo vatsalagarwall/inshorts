@@ -97,6 +97,22 @@ const data = [
         timestamp: '2021-09-04T03:55:14.000Z',
         link: 'https://www.manutd.com/en/amp/news/detail/cristiano-ronaldo-to-wear-the-number-7-shirt-for-man-utd?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts',
         publisher: 'Man Utd'
+    }, {
+        title: `MS Dhoni, teammates dance during Conway's pre-wedding party, CSK share video`,
+        author: 'Anmol Sharma',
+        description: `CSK took to social media to share a video of their players dancing during batter Devon Conway's pre-wedding party. The video also features MS Dhoni dancing during the party. All-rounder Dwayne Bravo can be seen doing the dance steps of his song 'Number One' with leg-spinner Prashant Solanki. Conway has left the bio-bubble for his wedding.`,
+        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/24_sun/img_1650787598162_905.jpg',
+        timestamp: '2021-09-04T04:20:02.000Z',
+        link: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/24_sun/img_1650787598162_905.jpg',
+        publisher: 'The Times of India'
+    }, {
+        title: `MS Dhoni, teammates dance during Conway's pre-wedding party, CSK share video`,
+        author: 'Anmol Sharma',
+        description: `CSK took to social media to share a video of their players dancing during batter Devon Conway's pre-wedding party. The video also features MS Dhoni dancing during the party. All-rounder Dwayne Bravo can be seen doing the dance steps of his song 'Number One' with leg-spinner Prashant Solanki. Conway has left the bio-bubble for his wedding.`,
+        url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/24_sun/img_1650787598162_905.jpg',
+        timestamp: '2021-09-04T04:20:02.000Z',
+        link: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/24_sun/img_1650787598162_905.jpg',
+        publisher: 'The Times of India'
     }
 
 ];
