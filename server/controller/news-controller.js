@@ -8,6 +8,7 @@ const getNews = async (request, response) => {
         response.status(200).json(data);
     }
     catch (error) {
+        console.log(error)
         response.status(500).json({ message: data.message });
     }
 }
