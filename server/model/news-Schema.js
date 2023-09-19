@@ -28,7 +28,6 @@ const newsSchema = new mongoose.Schema({
     },
 
 }, {
-
     collation: { locale: 'en', strength: 2 },
 },)
 
