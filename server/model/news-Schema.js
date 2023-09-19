@@ -28,7 +28,7 @@ const newsSchema = new mongoose.Schema({
     },
 
 }, {
-    // Apply a case-insensitive collation to the unique fields
+
     collation: { locale: 'en', strength: 2 },
 },)
 
